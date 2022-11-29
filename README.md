@@ -1,8 +1,8 @@
 # Simpson_Classification
 Classification of Simpson's heroes by screenshots
-Kaggle Competition
+Kaggle Competition <br>
 
-✅ Dataset augmentation
-✅ Custom neural network with conv layers
-✅ F1-score metric
+✅ Dataset augmentation <br>
+✅ Custom neural network with conv layers <br>
+✅ F1-score metric <br>
 ✅ Score 0.99893
